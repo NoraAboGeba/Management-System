@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/nora/NetBeansProjects/System/src/java/org/mano/service/EmployeeBean.java</file>
+            <file>file:/home/nora/NetBeansProjects/System/nbproject/build-impl.xml</file>
+            <file>file:/home/nora/NetBeansProjects/System/web/empAddNew.jsp</file>
+            <file>file:/home/nora/NetBeansProjects/System/web/empView.jsp</file>
+            <file>file:/home/nora/NetBeansProjects/System/src/java/org/mano/model/Employee.java</file>
+            <file>file:/home/nora/NetBeansProjects/System/src/java/org/mano/controller/DeleteServlet.java</file>
+            <file>file:/home/nora/NetBeansProjects/System/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
